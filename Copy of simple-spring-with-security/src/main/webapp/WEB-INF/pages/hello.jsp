@@ -4,6 +4,7 @@
 <html>
 <script>
 function change_action1() {
+	int a = 5;
 	document.form1.setAttribute('action', "insert");
 }
 
